@@ -8,7 +8,7 @@ import {
 } from "react-icons/ai";
 import { useState } from "react";
 import { BsGithub } from "react-icons/bs";
-import {FiExternalLink} from "react-icons/fi"
+import { FiExternalLink } from "react-icons/fi";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -180,12 +180,15 @@ export default function Home() {
                   delivering a captivating gallery experience for art lovers.
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/ARTSY-ECOMMERCE" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/ARTSY-ECOMMERCE"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
                   <a href="https://artsy-ecommerce.vercel.app/" target="_blank">
-                  <FiExternalLink/>
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -203,15 +206,26 @@ export default function Home() {
                 <p>Consord Budget Manager App</p>
 
                 <p>
-                Introducing the Consord Budget Manager App—a financial companion designed to empower your financial journey. With its sleek interface and robust features, it simplifies budgeting, tracks expenses, and forecasts your financial future effortlessly. Experience the art of financial management with Consord, where your financial well-being is just a swipe away.
+                  Introducing the Consord Budget Manager App—a financial
+                  companion designed to empower your financial journey. With its
+                  sleek interface and robust features, it simplifies budgeting,
+                  tracks expenses, and forecasts your financial future
+                  effortlessly. Experience the art of financial management with
+                  Consord, where your financial well-being is just a swipe away.
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/CONCORD-BUDGET-APP" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/CONCORD-BUDGET-APP"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
-                  <a href="https://concord-budget-app.vercel.app/" target="_blank">
-                  <FiExternalLink/>
+                  <a
+                    href="https://concord-budget-app.vercel.app/"
+                    target="_blank"
+                  >
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -229,15 +243,27 @@ export default function Home() {
                 <p>nextLevel Ecommerce</p>
 
                 <p>
-                Welcome to NextLevel Ecommerce, your ultimate destination for top-tier audio gear. Dive into a world of immersive sound with our meticulously curated collection of headphones, earphones, and speakers. Discover the perfect harmony of quality, style, and innovation. Elevate your audio experience to the next level with us – where every beat, every note, and every sound comes alive.
+                  Welcome to NextLevel Ecommerce, your ultimate destination for
+                  top-tier audio gear. Dive into a world of immersive sound with
+                  our meticulously curated collection of headphones, earphones,
+                  and speakers. Discover the perfect harmony of quality, style,
+                  and innovation. Elevate your audio experience to the next
+                  level with us – where every beat, every note, and every sound
+                  comes alive.
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/ECOMMERCE-NEXTJS-REDUXTOOLKIT" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/ECOMMERCE-NEXTJS-REDUXTOOLKIT"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
-                  <a href="https://ecommerce-nextjs-reduxtoolkit.vercel.app/" target="_blank">
-                  <FiExternalLink/>
+                  <a
+                    href="https://ecommerce-nextjs-reduxtoolkit.vercel.app/"
+                    target="_blank"
+                  >
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -255,21 +281,27 @@ export default function Home() {
                 <h4>Featured Project</h4>
                 <p>Hulu Clone</p>
 
-
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                  The Hulu Clone, meticulously built with Next.js and styled
+                  using Tailwind CSS, reimagines your favorite streaming
+                  platform. Dive into a captivating world of seamless
+                  navigation, stunning design, and an extensive library of
+                  binge-worthy content. Experience the future of streaming with
+                  our Hulu Clone and elevate your entertainment journey.
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/Hulu-Clone-2.0" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/Hulu-Clone-2.0"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
-                  <a href="https://hulu-clone-2-0-king-mikaelson.vercel.app/" target="_blank">
-                  <FiExternalLink/>
+                  <a
+                    href="https://hulu-clone-2-0-king-mikaelson.vercel.app/"
+                    target="_blank"
+                  >
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -288,15 +320,27 @@ export default function Home() {
                 <p>Medic Health</p>
 
                 <p>
-                Step into a healthier future with Medic Health, your virtual medical weight loss pharmacy. Our mission is to help you achieve your weight loss goals with personalized prescriptions and expert guidance, all from the comfort of your home. Say goodbye to the extra pounds and hello to a happier, healthier you. Your journey to a balanced life begins here, at Medic Health.
+                  Step into a healthier future with Medic Health, your virtual
+                  medical weight loss pharmacy. Our mission is to help you
+                  achieve your weight loss goals with personalized prescriptions
+                  and expert guidance, all from the comfort of your home. Say
+                  goodbye to the extra pounds and hello to a happier, healthier
+                  you. Your journey to a balanced life begins here, at Medic
+                  Health.
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/MedicHealth-LP" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/MedicHealth-LP"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
-                  <a href="https://www.medichealthwellness.com/" target="_blank">
-                  <FiExternalLink/>
+                  <a
+                    href="https://www.medichealthwellness.com/"
+                    target="_blank"
+                  >
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -315,15 +359,23 @@ export default function Home() {
                 <p>Vasrcon Freelance website</p>
 
                 <p>
-                Discover Varscon, your leading freelance agency with a unique twist. We not only connect you with top-tier freelancers but also house our own talented experts. At Varscon, we specialize in crafting custom products for companies, blending the expertise of our in-house team with our extensive network of freelancers
+                  Discover Varscon, your leading freelance agency with a unique
+                  twist. We not only connect you with top-tier freelancers but
+                  also house our own talented experts. At Varscon, we specialize
+                  in crafting custom products for companies, blending the
+                  expertise of our in-house team with our extensive network of
+                  freelancers
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/VARSCON-FREELANCE" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/VARSCON-FREELANCE"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
                   <a href="https://www.varscon.com/" target="_blank">
-                  <FiExternalLink/>
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>
@@ -342,15 +394,25 @@ export default function Home() {
                 <p>Scissors</p>
 
                 <p>
-                Introducing "Scissors" – your go-to URL link shortener powered by Next.js and styled with Tailwind CSS. Trim those lengthy URLs into sleek, shareable links with ease. Simplify your online presence and streamline your content sharing. Start snipping with Scissors today!
+                  Introducing "Scissors" – your go-to URL link shortener powered
+                  by Next.js and styled with Tailwind CSS. Trim those lengthy
+                  URLs into sleek, shareable links with ease. Simplify your
+                  online presence and streamline your content sharing. Start
+                  snipping with Scissors today!
                 </p>
 
-                <div  className="text-2xl flex gap-4 cursor-pointer">
-                  <a href="https://github.com/King-Mikaelson/SCISSOR-REPO" target="_blank">
-                  <BsGithub/>
+                <div className="text-2xl flex gap-4 cursor-pointer">
+                  <a
+                    href="https://github.com/King-Mikaelson/SCISSOR-REPO"
+                    target="_blank"
+                  >
+                    <BsGithub />
                   </a>
-                  <a href="https://zippy-granita-416707.netlify.app/" target="_blank">
-                  <FiExternalLink/>
+                  <a
+                    href="https://zippy-granita-416707.netlify.app/"
+                    target="_blank"
+                  >
+                    <FiExternalLink />
                   </a>
                 </div>
               </div>

@@ -199,11 +199,7 @@ export default function Home() {
                 <p>Consord Budget Manager App</p>
 
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                Introducing the Consord Budget Manager App—a financial companion designed to empower your financial journey. With its sleek interface and robust features, it simplifies budgeting, tracks expenses, and forecasts your financial future effortlessly. Experience the art of financial management with Consord, where your financial well-being is just a swipe away.
                 </p>
 
                 <div className="text-2xl flex gap-4">
@@ -225,11 +221,7 @@ export default function Home() {
                 <p>nextLevel Ecommerce</p>
 
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                Welcome to NextLevel Ecommerce, your ultimate destination for top-tier audio gear. Dive into a world of immersive sound with our meticulously curated collection of headphones, earphones, and speakers. Discover the perfect harmony of quality, style, and innovation. Elevate your audio experience to the next level with us – where every beat, every note, and every sound comes alive.
                 </p>
 
                 <div className="text-2xl flex gap-4">
@@ -280,11 +272,7 @@ export default function Home() {
                 <p>Medic Health</p>
 
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                Step into a healthier future with Medic Health, your virtual medical weight loss pharmacy. Our mission is to help you achieve your weight loss goals with personalized prescriptions and expert guidance, all from the comfort of your home. Say goodbye to the extra pounds and hello to a happier, healthier you. Your journey to a balanced life begins here, at Medic Health.
                 </p>
 
                 <div className="text-2xl flex gap-4">
@@ -307,11 +295,7 @@ export default function Home() {
                 <p>Vasrcon Freelance website</p>
 
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                Discover Varscon, your leading freelance agency with a unique twist. We not only connect you with top-tier freelancers but also house our own talented experts. At Varscon, we specialize in crafting custom products for companies, blending the expertise of our in-house team with our extensive network of freelancers
                 </p>
 
                 <div className="text-2xl flex gap-4">

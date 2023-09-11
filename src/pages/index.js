@@ -122,7 +122,7 @@ export default function Home() {
 
             <div className="lg:w-1/2 text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white">
               <div className="flex justify-center">
-                <Image src="/code.png" width={100} height={100} />
+                <Image src="/consulting.png" width={100} height={100} />
               </div>
               <h3 className="text-lg font-medium pt-8 pb-2"></h3>
               <p className="py-2">
@@ -180,9 +180,13 @@ export default function Home() {
                   delivering a captivating gallery experience for art lovers.
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/ARTSY-ECOMMERCE" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://artsy-ecommerce.vercel.app/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -202,9 +206,13 @@ export default function Home() {
                 Introducing the Consord Budget Manager App—a financial companion designed to empower your financial journey. With its sleek interface and robust features, it simplifies budgeting, tracks expenses, and forecasts your financial future effortlessly. Experience the art of financial management with Consord, where your financial well-being is just a swipe away.
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/CONCORD-BUDGET-APP" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://concord-budget-app.vercel.app/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -224,9 +232,13 @@ export default function Home() {
                 Welcome to NextLevel Ecommerce, your ultimate destination for top-tier audio gear. Dive into a world of immersive sound with our meticulously curated collection of headphones, earphones, and speakers. Discover the perfect harmony of quality, style, and innovation. Elevate your audio experience to the next level with us – where every beat, every note, and every sound comes alive.
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/ECOMMERCE-NEXTJS-REDUXTOOLKIT" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://ecommerce-nextjs-reduxtoolkit.vercel.app/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -252,9 +264,13 @@ export default function Home() {
                   delivering a captivating gallery experience for art lovers.
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/Hulu-Clone-2.0" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://hulu-clone-2-0-king-mikaelson.vercel.app/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -275,9 +291,13 @@ export default function Home() {
                 Step into a healthier future with Medic Health, your virtual medical weight loss pharmacy. Our mission is to help you achieve your weight loss goals with personalized prescriptions and expert guidance, all from the comfort of your home. Say goodbye to the extra pounds and hello to a happier, healthier you. Your journey to a balanced life begins here, at Medic Health.
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/MedicHealth-LP" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://www.medichealthwellness.com/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -298,9 +318,13 @@ export default function Home() {
                 Discover Varscon, your leading freelance agency with a unique twist. We not only connect you with top-tier freelancers but also house our own talented experts. At Varscon, we specialize in crafting custom products for companies, blending the expertise of our in-house team with our extensive network of freelancers
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/VARSCON-FREELANCE" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://www.varscon.com/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>
@@ -318,16 +342,16 @@ export default function Home() {
                 <p>Scissors</p>
 
                 <p>
-                  Explore my portfolio and uncover an enchanting artsy
-                  e-commerce platform. With Next.js and Tailwind CSS, I've woven
-                  a digital masterpiece, orchestrated by the magical useReducer
-                  hook. This platform seamlessly melds technology and artistry,
-                  delivering a captivating gallery experience for art lovers.
+                Introducing "Scissors" – your go-to URL link shortener powered by Next.js and styled with Tailwind CSS. Trim those lengthy URLs into sleek, shareable links with ease. Simplify your online presence and streamline your content sharing. Start snipping with Scissors today!
                 </p>
 
-                <div className="text-2xl flex gap-4">
+                <div  className="text-2xl flex gap-4 cursor-pointer">
+                  <a href="https://github.com/King-Mikaelson/SCISSOR-REPO" target="_blank">
                   <BsGithub/>
+                  </a>
+                  <a href="https://zippy-granita-416707.netlify.app/" target="_blank">
                   <FiExternalLink/>
+                  </a>
                 </div>
               </div>
             </div>

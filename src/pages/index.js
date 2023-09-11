@@ -73,7 +73,7 @@ export default function Home() {
           </div>
           <div className="relative mx-auto my-0 flex justify-center items-center mt-20">
             <Image
-              src={"/profile.jpeg"}
+              src={"/mikeImage.jpeg"}
               width={300}
               height={300}
               className="rounded-full w-80 h-80 md:h-96 md:w-96"
